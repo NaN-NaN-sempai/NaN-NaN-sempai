@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaN-NaN-sempai&layout=compact&langs_count=7&theme=dark"/>
+    <img width="100%" src="https://raw.githubusercontent.com/NaN-NaN-sempai/NaN-NaN-sempai/main/banner.png"/>
 </div>
 
 <div align="center">
