@@ -8,25 +8,25 @@
 <div>
     <h3>Repositories:</h3>
     <a href="https://github.com/NaN-NaN-sempai/NaN-NaN-sempai.github.io">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN-NaN-sempai.github.io&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN-NaN-sempai.github.io&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/Windows-App-Folder">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Windows-App-Folder&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Windows-App-Folder&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/MPJS">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=MPJS&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=MPJS&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/PdeF">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=PdeF&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=PdeF&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/palavras">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=palavras&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=palavras&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/NaN_framekwork">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN_framekwork&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN_framekwork&theme=calm_pink">
     </a>
     <a href="https://github.com/NaN-NaN-sempai/Canvas_Grey_Image_Shading">
-        <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Canvas_Grey_Image_Shading&theme=calm_pink">
+        <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Canvas_Grey_Image_Shading&theme=calm_pink">
     </a>
 </div>
 
