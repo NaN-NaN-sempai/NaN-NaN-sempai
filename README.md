@@ -46,6 +46,10 @@
         <a target="_blank" href="https://nan-nan-sempai.github.io/"><img alt="Protfolio" src="https://img.shields.io/badge/Portfolio-272727?style=for-the-badge&logo=github&logoColor=white"/></a>
         <a target="_blank" href="mailto:luis.h.wrk@gmail.com?Subject=I%20came%20from%20Github"><img alt="Email" src="https://img.shields.io/badge/gmail-E90808?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     </div>
+
+<br>
+
+<br>
      <div>
         <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
         <img alt="Vue" height="30" width="30" src="https://vuejs.org/images/logo.png"/>
