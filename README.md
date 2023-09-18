@@ -34,8 +34,8 @@
     
 <div>
     <h3>Stats:</h3>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
 </div>
 
 <br>
