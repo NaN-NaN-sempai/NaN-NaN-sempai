@@ -1,6 +1,5 @@
-
-
 <div align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaN-NaN-sempai&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
