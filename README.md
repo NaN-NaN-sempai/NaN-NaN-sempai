@@ -1,5 +1,7 @@
 <div align="center">
-    <img width="100%" src="https://raw.githubusercontent.com/NaN-NaN-sempai/NaN-NaN-sempai/main/banner.png"/>
+    <a href="https://github.com/NaN-NaN-sempai">
+        <img alt="User banner" width="100%" src="https://raw.githubusercontent.com/NaN-NaN-sempai/NaN-NaN-sempai/main/banner.png"/>
+    </a>
 </div>
 
 <br>
@@ -51,10 +53,23 @@
 
 <br>
      <div>
-        <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-        <img alt="Vue" height="30" width="30" src="https://vuejs.org/images/logo.png"/>
-        <img alt="Node" height="43" width="43" src="https://www.qrsof.com/images/nodejs.png">
-        <img alt="Electron JS" height="43" width="43" src="https://www.electronjs.org/pt/assets/img/favicon.ico">
+        <h4>Developer tools:</h4>
+        <img alt="JS" title="JS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+        <img alt="Eslint" title="Eslint" height="45" width="45" src="https://eslint.org/icon-512.png">
+        <img alt="HTML" title="HTML" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
+        <img alt="Vue" title="Vue" height="45" width="45" width="30" src="https://vuejs.org/images/logo.png"/>
+        <img alt="SCSS" title="SCSS" height="45" width="45" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
+        <img alt="Electron JS" title="Electron JS" height="45" width="45" src="https://www.electronjs.org/pt/assets/img/favicon.ico">
+        <img alt="Node JS" title="Node JS" height="45" width="45" src="https://www.qrsof.com/images/nodejs.png">
+        <img alt="Userscript" title="Userscript" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tampermonkey_logo.svg/2048px-Tampermonkey_logo.svg.png">
+    </div>
+    <br>
+     <div>
+        <h4>Designer tools:</h4>
+        <img alt="Adobe Illustrator" title="Adobe Illustrator" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png"/>
+        <img alt="Adobe Photoshop" title="Adobe Photoshop" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"/>
+        <img alt="Adobe XD" title="Adobe XD" height="45" width="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"/>
+        <img alt="Adobe Premiere" title="Adobe Premiere" height="45" width="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png"/>
     </div>
 </div>
     
