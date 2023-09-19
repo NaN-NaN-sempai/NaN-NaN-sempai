@@ -6,6 +6,16 @@
 
 <br>
 
+<div>
+    <h3>Stats:</h3>
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
+</div>
+
+
+<br>
+
+
 <div align="center">
 <div>
     <h3>Repositories:</h3>
@@ -30,14 +40,6 @@
     <a href="https://github.com/NaN-NaN-sempai/Canvas_Grey_Image_Shading">
         <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Canvas_Grey_Image_Shading&theme=calm_pink">
     </a>
-</div>
-
-<br>
-    
-<div>
-    <h3>Stats:</h3>
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
 </div>
 
 <br>
