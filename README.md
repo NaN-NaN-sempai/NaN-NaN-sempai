@@ -65,7 +65,7 @@
 <br>
      <div>
         <h4>Developer tools:</h4>
-        <img alt="JS" title="JS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+        <img alt="Javascript" title="Javascript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
         <img alt="Eslint" title="Eslint" height="45" width="45" src="https://eslint.org/icon-512.png">
         <img alt="HTML" title="HTML" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
         <img alt="Vue" title="Vue" height="45" width="45" width="30" src="https://vuejs.org/images/logo.png"/>
