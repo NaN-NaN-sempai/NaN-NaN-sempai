@@ -71,6 +71,7 @@
         <img alt="Javascript" title="Javascript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
         <img alt="Eslint" title="Eslint" height="45" width="45" src="https://eslint.org/icon-512.png">
         <img alt="HTML" title="HTML" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
+        <img alt="Svelte" title="Svelte" height="45" width="37.5" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"/>
         <img alt="Vue" title="Vue" height="45" width="45" width="30" src="https://vuejs.org/images/logo.png"/>
         <img alt="SCSS" title="SCSS" height="45" width="45" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
         <img alt="Electron JS" title="Electron JS" height="45" width="45" src="https://www.electronjs.org/pt/assets/img/favicon.ico">
