@@ -18,7 +18,7 @@
 
 <div align="center">
 <div>
-    <h3>Repositories:</h3>
+    <h3>Key Repositories:</h3>
     <a href="https://github.com/NaN-NaN-sempai/NaN-NaN-sempai.github.io">
         <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN-NaN-sempai.github.io&theme=calm_pink">
     </a>
