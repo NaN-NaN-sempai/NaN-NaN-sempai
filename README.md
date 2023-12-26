@@ -61,6 +61,7 @@
         <br>
         <a target="_blank" href="https://gist.github.com/NaN-NaN-sempai/d801272c99c614b8b06271c10203b15b" title="Nintedo Switch friend code"><img alt="Nintendo" src="https://img.shields.io/badge/SW--5386--2926--5006-D14836?style=for-the-badge&logo=nintendoswitch&logoColor=white&color=FF0000"/></a>
         <a target="_blank" href="https://steamcommunity.com/id/Okoda/"><img alt="Steam" src="https://img.shields.io/badge/steam-D14836?style=for-the-badge&logo=steam&logoColor=white&color=141414"/></a>
+        <a target="_blank" href="https://www.imdb.com/user/ur174614034/"><img alt="IMDb" src="https://img.shields.io/badge/imdb-D14836?style=for-the-badge&logo=imdb&logoColor=333333&color=F5C518"/></a>
     </div>
 
 <br>
