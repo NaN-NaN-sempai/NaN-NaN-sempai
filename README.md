@@ -50,7 +50,7 @@
 <div>
     <h3>More:</h3>
     <div>
-        <a target="_blank" href="https://luishenrique.space"><img alt="Site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
+        <a target="_blank" href="https://luishenrique.space"><img alt="Site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
         <a target="_blank" href="https://www.npmjs.com/~okoda"><img alt="NPM" src="https://img.shields.io/badge/npm-D14836?style=for-the-badge&logo=npm&logoColor=white&color=cb0303"/></a>
         <a target="_blank" href="https://stackoverflow.com/users/8639520/lu%c3%ads-hnrique"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white&color=f4842b"/></a>
         <br>
