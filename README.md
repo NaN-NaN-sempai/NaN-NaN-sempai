@@ -6,7 +6,7 @@ Subdomains:
 
 [applica.luishenrique.space](https://applica.luishenrique.space/)
 <br>
-[resume.luishenrique.space](https://resume.luishenrique.space/) - (temporarily disabled)
+[resume.luishenrique.space](https://resume.luishenrique.space/) - (temporarily disabled) - ([Vercel Community post](https://vercel.community/t/how-to-make-github-pages-and-vercel-subdomain-work-at-the-same-time/1580))
 </strong>
 
 </div>
