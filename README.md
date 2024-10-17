@@ -4,7 +4,7 @@
 <strong align="center">
 These domains are still active:
 
-[applica.luishenrique.site](https://applica.luishenrique.site/)
+[applica.luishenrique.space](https://applica.luishenrique.space/)
 <br>
 [resume.luishenrique.space](https://resume.luishenrique.space/)
 </strong>
