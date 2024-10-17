@@ -1,13 +1,14 @@
-<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is temporarily disabled </h1>
+<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is online </h1>
 
-<div align="center">
-<strong align="center">
-These domains are still active:
+<div align="left">
+<strong>
+Subdomains:
 
 [applica.luishenrique.space](https://applica.luishenrique.space/)
 <br>
-[resume.luishenrique.space](https://resume.luishenrique.space/)
+[resume.luishenrique.space](https://resume.luishenrique.space/) - (temporarily disabled)
 </strong>
+
 </div>
 
 <br>
