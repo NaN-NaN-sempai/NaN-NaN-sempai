@@ -1,4 +1,4 @@
-<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is ONLINE (resolving SSL) </h1>
+<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is ONLINE (resolving SSL 🕑) </h1>
 
 <div align="left">
 <strong>
