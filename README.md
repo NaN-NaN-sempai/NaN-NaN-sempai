@@ -4,7 +4,7 @@
 <strong>
 Subdomains:
 
-[applica.luishenrique.space](https://applica.luishenrique.space/)
+[applica.luishenrique.space](https://applica.luishenrique.space/) is offline 🕑
 <br>
 [resume.luishenrique.space](https://resume.luishenrique.space/)
 </strong>
