@@ -20,11 +20,6 @@ Subdomains:
     </a>
 </div>
 
-<div align="center">
-    <h3>Stats:</h3>
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
-</div>
 
 
 <br>
@@ -99,6 +94,12 @@ Subdomains:
         <a target="_blank" href="https://steamcommunity.com/id/Okoda/"><img alt="Steam" src="https://img.shields.io/badge/steam-D14836?style=for-the-badge&logo=steam&logoColor=white&color=141414"/></a>
         <a target="_blank" href="https://www.imdb.com/user/ur174614034/"><img alt="IMDb" src="https://img.shields.io/badge/imdb-D14836?style=for-the-badge&logo=imdb&logoColor=333333&color=F5C518"/></a>
     </div>
+</div>
+
+<div align="center">
+    <h4>Stats:</h4>
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
 </div>
     
 </div>
