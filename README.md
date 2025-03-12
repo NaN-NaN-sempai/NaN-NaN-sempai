@@ -1,4 +1,4 @@
-<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is ONLINE (resolving SSL 🕑) </h1>
+<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is ONLINE! </h1>
 
 <div align="left">
 <strong>
@@ -6,7 +6,7 @@ Subdomains:
 
 [applica.luishenrique.space](https://applica.luishenrique.space/)
 <br>
-[resume.luishenrique.space](https://resume.luishenrique.space/) - (temporarily disabled) - ([Vercel Community post](https://vercel.community/t/how-to-make-github-pages-and-vercel-subdomain-work-at-the-same-time/1580))
+[resume.luishenrique.space](https://resume.luishenrique.space/)
 </strong>
 
 </div>
