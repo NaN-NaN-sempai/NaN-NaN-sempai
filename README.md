@@ -43,6 +43,9 @@ Subdomains:
     <a href="https://github.com/NaN-NaN-sempai/useBase">
         <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=useBase&theme=calm_pink">
     </a>
+    <a href="https://github.com/NaN-NaN-sempai/ConsoFy">
+        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=ConsoFy&theme=calm_pink">
+    </a>
     <a href="https://github.com/NaN-NaN-sempai/palavras">
         <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=palavras&theme=calm_pink">
     </a>
