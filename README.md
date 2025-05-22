@@ -37,9 +37,6 @@ Subdomains:
     <a href="https://github.com/NaN-NaN-sempai/MPJS">
         <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=MPJS&theme=calm_pink">
     </a>
-    <a href="https://github.com/NaN-NaN-sempai/PdeF">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=PdeF&theme=calm_pink">
-    </a>
     <a href="https://github.com/NaN-NaN-sempai/useBase">
         <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=useBase&theme=calm_pink">
     </a>
