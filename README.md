@@ -4,7 +4,7 @@
 <strong>
 Subdomains:
 
-[pay.luishenrique.space](https://pay.luishenrique.space/)
+[pay.luishenrique.space](https://pay.luishenrique.space/) - ⚠️ website under development
 <br>
 [applica.luishenrique.space](https://applica.luishenrique.space/)
 <br>
