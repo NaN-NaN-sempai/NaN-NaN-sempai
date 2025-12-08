@@ -31,36 +31,6 @@ Subdomains:
 
 <div align="center">
 <div>
-    <h3>Noteworthy Repositories:</h3>
-    <a href="https://github.com/NaN-NaN-sempai/NaN-NaN-sempai.github.io">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN-NaN-sempai.github.io&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/Windows-App-Folder">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Windows-App-Folder&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/MPJS">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=MPJS&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/useBase">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=useBase&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/ConsoFy">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=ConsoFy&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/palavras">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=palavras&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/NaN_framekwork">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=NaN_framekwork&theme=calm_pink">
-    </a>
-    <a href="https://github.com/NaN-NaN-sempai/Canvas_Grey_Image_Shading">
-        <img height=90 src="https://github-readme-stats.vercel.app/api/pin/?username=NaN-NaN-sempai&repo=Canvas_Grey_Image_Shading&theme=calm_pink">
-    </a>
-</div>
-
-<br>
-
-<div>
      <div>
         <h4>Developer tools:</h4>
         <img alt="Javascript" title="Javascript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
