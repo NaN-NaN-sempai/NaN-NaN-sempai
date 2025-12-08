@@ -31,27 +31,6 @@ Subdomains:
 
 <div align="center">
 <div>
-     <div>
-        <h4>Developer tools:</h4>
-        <img alt="Javascript" title="Javascript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-        <img alt="Eslint" title="Eslint" height="45" width="45" src="https://eslint.org/icon-512.png">
-        <img alt="HTML" title="HTML" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"/>
-        <img alt="Svelte" title="Svelte" height="45" width="37.5" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"/>
-        <img alt="Vue" title="Vue" height="45" width="45" width="30" src="https://vuejs.org/images/logo.png"/>
-        <img alt="SCSS" title="SCSS" height="45" width="45" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"/>
-        <img alt="Electron JS" title="Electron JS" height="45" width="45" src="https://www.electronjs.org/pt/assets/img/favicon.ico">
-        <img alt="Node JS" title="Node JS" height="45" width="45" src="https://www.qrsof.com/images/nodejs.png">
-        <img alt="Userscript" title="Userscript" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tampermonkey_logo.svg/2048px-Tampermonkey_logo.svg.png">
-    </div>
-    <br>
-     <div>
-        <h4>Designer tools:</h4>
-        <img alt="Adobe Illustrator" title="Adobe Illustrator" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png"/>
-        <img alt="Adobe Photoshop" title="Adobe Photoshop" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"/>
-        <img alt="Adobe XD" title="Adobe XD" height="45" width="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png"/>
-        <img alt="Adobe Premiere" title="Adobe Premiere" height="45" width="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png"/>
-    </div>
-    <br>
     <h3>More:</h3>
     <div>
         <a target="_blank" href="https://luishenrique.space/curriculo"><img alt="Site" src="https://img.shields.io/badge/resume-FFE2B6?style=for-the-badge&logo=gitbook&logoColor=E9773C"/></a>
@@ -68,12 +47,6 @@ Subdomains:
         <a target="_blank" href="https://steamcommunity.com/id/Okoda/"><img alt="Steam" src="https://img.shields.io/badge/steam-D14836?style=for-the-badge&logo=steam&logoColor=white&color=141414"/></a>
         <a target="_blank" href="https://www.imdb.com/user/ur174614034/"><img alt="IMDb" src="https://img.shields.io/badge/imdb-D14836?style=for-the-badge&logo=imdb&logoColor=333333&color=F5C518"/></a>
     </div>
-</div>
-
-<div align="center">
-    <h4>Stats:</h4>
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaN-NaN-sempai&layout=compact&langs_count=8&card_width=320&theme=calm_pink" />
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=NaN-NaN-sempai&theme=calm_pink" />
 </div>
     
 </div>
