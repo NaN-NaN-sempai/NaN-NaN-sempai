@@ -30,6 +30,7 @@ Subdomains:
           <a href="https://github.com/NaN-NaN-sempai/SpaceCAD">
             <img
               alt="SpaceCAD"
+              title="SpaceCAD"
               width="250"
               align="middle"
               src="https://raw.githubusercontent.com/NaN-NaN-sempai/SpaceCAD/refs/heads/main/assets/logo/logo.svg"
@@ -39,6 +40,7 @@ Subdomains:
           <a href="https://github.com/NaN-NaN-sempai/useBase">
             <img
               alt="useBase"
+                title="useBase"
               width="90"
               align="middle"
               src="https://raw.githubusercontent.com/NaN-NaN-sempai/useBase/main/logo.png"
@@ -46,7 +48,7 @@ Subdomains:
           </a>
           <a href="https://github.com/NaN-NaN-sempai/ConsoFy">
             <img
-              alt="ConsoFy"
+              alt="ConsoFy" title="ConsoFy"
               width="90"
               align="middle"
               src="https://raw.githubusercontent.com/NaN-NaN-sempai/ConsoFy/refs/heads/main/images/logo.png"
@@ -54,7 +56,7 @@ Subdomains:
           </a>
           <a href="https://app.unpkg.com/lhsmp@0.0.38/files/index.js">
             <img
-              alt="lhsmp"
+              alt="lhsmp" title="lhsmp"
               width="90"
               align="middle"
               src="https://unpkg.com/lhsmp/src/icon.svg"
@@ -63,10 +65,10 @@ Subdomains:
         <br>
           <a href="https://luishenrique.space/Charlie-Jeer-Nobody/">
             <img
-              alt="Charlie Jeer - Nobody"
+              alt="Charlie Jeer - Nobody" title="Charlie Jeer - Nobody"
               width="90"
               align="middle"
-              src="https://luishenrique.space/Charlie-Jeer-Nobody/src/Main.png"
+              src="https://raw.githubusercontent.com/NaN-NaN-sempai/Charlie-Jeer-Nobody/refs/heads/main/src/Main.png"
             />
           </a>
     </div>
