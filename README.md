@@ -1,18 +1,10 @@
-<h1 align="center">The domain <a href="https://luishenrique.space/">luishenrique.space</a> is ONLINE! </h1>
+<h1 align="center"><a href="https://luishenrique.space/">luishenrique.space</a></h1>
 
 <div align="left">
 <strong>
 Subdomains:
 
-[tools.luishenrique.space](https://tools.luishenrique.space/) - NEW !
-<br>
-[roadmap.luishenrique.space](https://roadmap.luishenrique.space/) - NEW !
-<br>
-[pay.luishenrique.space](https://pay.luishenrique.space/) - NEW !
-<br>
-[applica.luishenrique.space](https://applica.luishenrique.space/)
-<br>
-[resume.luishenrique.space](https://resume.luishenrique.space/)
+[tools](https://tools.luishenrique.space/), [roadmap](https://roadmap.luishenrique.space/), [pay](https://pay.luishenrique.space/), [applica](https://applica.luishenrique.space/), [resume](https://resume.luishenrique.space/)
 </strong>
 
 </div>
@@ -26,6 +18,61 @@ Subdomains:
     </a>
 </div>
 
+
+
+<br>
+
+
+<div align="center">
+<div>
+    <h3>Noteworthy Projects:</h3>
+    <div>
+          <a href="https://github.com/NaN-NaN-sempai/SpaceCAD">
+            <img
+              alt="SpaceCAD"
+              width="250"
+              align="middle"
+              src="https://raw.githubusercontent.com/NaN-NaN-sempai/SpaceCAD/refs/heads/main/assets/logo/logo.svg"
+            />
+          </a>
+        <br>
+          <a href="https://github.com/NaN-NaN-sempai/useBase">
+            <img
+              alt="useBase"
+              width="90"
+              align="middle"
+              src="https://raw.githubusercontent.com/NaN-NaN-sempai/useBase/main/logo.png"
+            />
+          </a>
+          <a href="https://github.com/NaN-NaN-sempai/ConsoFy">
+            <img
+              alt="ConsoFy"
+              width="90"
+              align="middle"
+              src="https://raw.githubusercontent.com/NaN-NaN-sempai/ConsoFy/refs/heads/main/images/logo.png"
+            />
+          </a>
+          <a href="https://app.unpkg.com/lhsmp@0.0.38/files/index.js">
+            <img
+              alt="lhsmp"
+              width="90"
+              align="middle"
+              src="https://unpkg.com/lhsmp/src/icon.svg"
+            />
+          </a>
+        <br>
+          <a href="https://luishenrique.space/Charlie-Jeer-Nobody/">
+            <img
+              alt="Charlie Jeer - Nobody"
+              width="90"
+              align="middle"
+              src="https://luishenrique.space/Charlie-Jeer-Nobody/src/Main.png"
+            />
+          </a>
+    </div>
+</div>
+    
+</div>
 
 
 <br>
